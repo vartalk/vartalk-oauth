@@ -1,6 +1,6 @@
-# utterances-oauth
+# vartalk-oauth
 
-This repo contains the source for the [Cloudflare Worker](https://developers.cloudflare.com/workers/) that powers the GitHub OAuth flow and issue creation for Utterances.
+This repo contains the source for the [Cloudflare Worker](https://developers.cloudflare.com/workers/) that powers the GitHub OAuth flow and issue creation for vartalk.
 
 ## install
 
